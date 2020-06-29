@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408025830092",
+    "firebase_url": "https://vital-plating-281612.firebaseio.com",
+    "project_id": "vital-plating-281612",
+    "storage_bucket": "vital-plating-281612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408025830092:android:e9e4359a625944fa8c6869",
+        "android_client_info": {
+          "package_name": "com.jebstern.save_the_earth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408025830092-4srr6b2rarln510juk9ucps53a4tm0to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jebstern.save_the_earth",
+            "certificate_hash": "64bbc1e617464135a7f362ac489139e4e433850a"
+          }
+        },
+        {
+          "client_id": "408025830092-7gj365og201b3mlmlh50srvhlcm44d7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJgSuiS604Pl2KIbqn0aWqiFuMd65UuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408025830092-7gj365og201b3mlmlh50srvhlcm44d7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
